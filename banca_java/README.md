@@ -35,6 +35,8 @@ banca_java/
 
 
   👥 Classi principali
+
+
 Utente
 
 Rappresenta un cliente della banca.
